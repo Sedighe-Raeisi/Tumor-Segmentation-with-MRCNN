@@ -1,4 +1,4 @@
-# Tumor-Segmentation-with-MRCNN
+# Tumor Segmentation with MRCNN
 # Downlading the Dataset:  
 In this project I downloaded the data from the link: 
 [https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
